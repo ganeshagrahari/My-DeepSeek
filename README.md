@@ -70,11 +70,12 @@ By default, the application interacts with the **Ollama API** at `http://localho
 - **Dark Mode UI**: Custom-designed dark theme for better readability.
 
 ---
+  
 
-## 📸 Screenshots
-| Chat Interface | Thinking Process | Response Output |
-|---------------|-----------------|-----------------|
-| ![Chat UI](assets/chat_ui.png) | ![Thinking Toggle](assets/thinking_toggle.png) | ![Final Response](assets/final_response.png) |
+## 📸 Screenshots  
+| Responding Chatbot |  
+|-------------------|  
+| ![Final Response](assets/final_response.png) |  
 
 ---
 
