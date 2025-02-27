@@ -105,7 +105,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📩 Contact
 💡 Have suggestions or need help? Reach out!
-- **GitHub**: [YourUsername](https://github.com/ganeshagrahari)
+- **GitHub**: [Ganesh Agrahari](https://github.com/ganeshagrahari)
 - **LinkedIn**: [Ganesh Agrahari](https://www.linkedin.com/in/ganesh-agrahari-727746263/)
 
 🚀 *Happy Coding!*
